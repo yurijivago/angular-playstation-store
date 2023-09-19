@@ -9,6 +9,8 @@ export class CardComponent implements OnInit {
 
   @Input()
   gameCover:string=""
+  @Input()
+  trailerLink:string=""
   
   @Input()
   gameLabel:string=""

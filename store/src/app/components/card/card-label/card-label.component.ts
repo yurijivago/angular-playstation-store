@@ -9,6 +9,8 @@ export class CardLabelComponent implements OnInit {
   
   @Input()
   gameLabel:string=""
+  @Input()
+  trailerLink:string=""
 
   constructor() { }
 
