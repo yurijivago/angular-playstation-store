@@ -1,0 +1,1 @@
+## Recriando a interface da PlayStation Store com Angular
